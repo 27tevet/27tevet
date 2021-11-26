@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikaeltevet
-- 👀 I’m interested in artificial intelligence, data science, and web development.
-- 🌱 I’m currently learning Node.js, MongoDB, React.js, TypeScript, and Python.
+- 👀 I’m interested in web development, artificial intelligence, and data science.
+- 🌱 I’m currently learning JavaScript and its uses in full stack web development.
 - 📫 You can contact me via email: gx.miguelangel@gmail.com
 
 <!---
